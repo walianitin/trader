@@ -1,4 +1,6 @@
-init the auto generatted client ,,generated the "generated " to  auto generate client and using the open api spec 
-file of the #hitiing server
+Auto-Generated Client Setup for Hitting the Backend Server
+This process involves:
 
-trader is the folder of the auto generated client part the the backend we are hitting is the creation_openapi
+1;Generating a client using the OpenAPI specification file.
+2;Placing the auto-generated client in a folder (trader).
+3;Using the generated client to interact with the backend (creation_openapi server).
